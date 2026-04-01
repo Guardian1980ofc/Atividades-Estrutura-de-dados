@@ -1,4 +1,4 @@
-public class Main {
+public class Teste_vetor {
     public static void main(String[] args) {
 
         System.out.println("Teste numero 1...");
