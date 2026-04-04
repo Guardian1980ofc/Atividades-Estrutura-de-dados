@@ -1,6 +1,6 @@
-package e1_Fila_de_impressão;
+package e2_Atendimento_banco;
 
-public class Fila <T>{
+public class Fila<T>{
     private T[] elementos;
     private int tamanho;
     private  int inicio;
