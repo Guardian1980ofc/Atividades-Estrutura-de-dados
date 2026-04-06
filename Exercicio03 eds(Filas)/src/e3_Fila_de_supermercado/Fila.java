@@ -1,9 +1,9 @@
 package e3_Fila_de_supermercado;
 
 public class Fila<T>{
-    private T[] elementos;
-    private int tamanho;
-    private  int inicio;
+    protected T[] elementos;
+    protected int tamanho;
+    protected int inicio;
 
     public Fila(int capacidade) {
         this.tamanho = 0;
@@ -37,7 +37,6 @@ public class Fila<T>{
         return this. elementos[inicio];
     }
 
-
     @Override
     public String toString() {
         StringBuilder sb = new StringBuilder("[");
@@ -48,5 +47,4 @@ public class Fila<T>{
         sb.append("]");
         return sb.toString();
     }
-
 }

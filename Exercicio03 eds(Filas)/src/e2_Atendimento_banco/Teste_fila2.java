@@ -1,8 +1,6 @@
 package e2_Atendimento_banco;
 
-import e2_Atendimento_banco.Fila;
-
-public class Teste_fila {
+public class Teste_fila2 {
     static void main(String[] args) {
 
         Cliente c1 = new Cliente("Gilberto", 101);

@@ -1,6 +1,6 @@
 package e1_Fila_de_impressão;
 
-public class Teste_fila {
+public class Teste_fila1 {
     public static void main(String[] args) {
 
         Fila<Documento> fila = new Fila<>(5);

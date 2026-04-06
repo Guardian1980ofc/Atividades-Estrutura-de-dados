@@ -1,11 +1,11 @@
 package e3_Fila_de_supermercado;
 
-public class Cliente {
+public class Cliente_S {
 
     private String nome;
     private int quantidadeProdutos;
 
-    public Cliente(String nome, int quantidade){
+    public Cliente_S(String nome, int quantidade){
         this.nome = nome;
         this.quantidadeProdutos = quantidade;
     }
