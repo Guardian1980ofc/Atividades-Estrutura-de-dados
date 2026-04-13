@@ -6,6 +6,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Exercicio01 eds(Vetores)/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Exercicio02 eds(Pilhas)/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Exercicio03 eds(Filas)/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercicio04 eds(Lista Encadeada)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercicio04 eds ListaEncadeada/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

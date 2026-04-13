@@ -16,7 +16,7 @@ public class Teste_fila8 {
         System.out.println("--------------------------------\n");
 
         while (!cpu.esVazio()) {
-            // No momento que desenfileiramos, ele entra "em execução"
+            // e1_Lista_de_chamada.No momento que desenfileiramos, ele entra "em execução"
             Processo emExecucao = cpu.desenfileirar();
 
             System.out.println("CPU STATUS: Executando processo #" + emExecucao.getId());
